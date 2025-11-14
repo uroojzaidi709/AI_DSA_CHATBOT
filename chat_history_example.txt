@@ -1,0 +1,4 @@
+User: What is a stack?
+Bot: A stack is a linear data structure which follows LIFO.
+User: Show me C++ example of stack.
+Bot: Here is a simple stack implementation...
