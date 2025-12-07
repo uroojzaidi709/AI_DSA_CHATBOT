@@ -3,6 +3,8 @@
 *.obj
 *.exe
 *.out
+# Ignore build directories
+/build/
 
 # Ignore temporary files
 *.log
